@@ -1,3 +1,1 @@
 # openfass-hello-world
-
-## Testings
